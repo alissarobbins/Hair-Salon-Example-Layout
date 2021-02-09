@@ -1,4 +1,4 @@
-/* Box Model Hack */
+
 * {
   box-sizing: border-box;
   font-size: 62.5%;
@@ -48,7 +48,7 @@ nav ul {
 .start {
   width: 100vw;
   height: 100vh;
-  background-image: url(/HAIR\ SALON\ REDO/assets/pink2.jpg);
+  background-image: url(.\assets\pink2.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
