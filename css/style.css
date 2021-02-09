@@ -229,7 +229,7 @@ img {
 }
 
 .offer {
-  background-image: url(./assets/bluehair.jpg);
+  background-image: url(../assets/bluehair.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
