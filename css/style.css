@@ -1,4 +1,3 @@
-/* Box Model Hack */
 * {
   box-sizing: border-box;
   font-size: 62.5%;
@@ -25,7 +24,6 @@ a:hover {
 header {
   border-bottom: 1px solid #605d5c;
   color: #222222;
-  /* box-shadow: 3px 3px 100px #ada198; */
 }
 nav {
   width: 100%;
@@ -48,7 +46,7 @@ nav ul {
 .start {
   width: 100vw;
   height: 100vh;
-  background-image: url(/HAIR\ SALON\ REDO/assets/pink2.jpg);
+  background-image: url(../assets/pink2.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -162,8 +160,6 @@ button {
   border: 50px solid rgba(241, 239, 238, 0.3);
   background-color: rgba(241, 239, 238, 0.3);
   box-shadow: 4px 4px 4px rgba(241, 239, 238, 1);
-  /* background-color: rgba(223, 218, 215, 0.5);
-  box-shadow: rgba(223, 218, 215, 0.5); */
   border-radius: 100px;
   color: #222222;
 }
@@ -233,7 +229,7 @@ img {
 }
 
 .offer {
-  background-image: url(/HAIR\ SALON\ REDO/assets/bluehair.jpg);
+  background-image: url(../assets/bluehair.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
